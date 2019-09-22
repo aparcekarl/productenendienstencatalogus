@@ -1,6 +1,6 @@
 # About this application
 
-Het "producten en diensten" component is ontwikkeld voor de gemeente Utrecht en is een producten- en dienstencatalogus. Je kan hier de diverse producten en diensten definiëren die te gebruiken zijn in verschillende processen. Dit component wordt vaak gebruikt met de betalen en orders componenten, maar dit is niet altijd noodzakelijk..
+Het "producten en diensten" component is ontwikkeld voor de gemeente Utrecht en is een producten- en dienstencatalogus. Je kunt hier de diverse producten en diensten definiëren die te gebruiken zijn in verschillende processen. Dit component wordt vaak gebruikt met de betalen en orders componenten, maar dit is niet altijd noodzakelijk.
 
 ## Documentation
 
@@ -20,7 +20,7 @@ This repository uses the power of the [commonground proto component](https://git
 
 ## License
 
-Copyright � Conduction 2019
+Copyright � Conduction 2019
 
 Licensed under [EUPL](https://github.com/ConductionNL/productencomponent/blob/master/LICENSE.md)
 
