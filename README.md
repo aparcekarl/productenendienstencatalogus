@@ -1,4 +1,4 @@
-# About this application
+# About this component
 
 Het "producten en diensten" component is ontwikkeld voor de gemeente Utrecht en is een producten- en dienstencatalogus. Je kunt hier de diverse producten en diensten definiëren die te gebruiken zijn in verschillende processen. Dit component wordt vaak gebruikt met de betalen en orders componenten, maar dit is niet altijd noodzakelijk.
 
