@@ -13,3 +13,10 @@
 /.php_cs
 /.php_cs.cache
 ###< friendsofphp/php-cs-fixer ###
+<<<<<<< HEAD
+=======
+
+###> lexik/jwt-authentication-bundle ###
+/config/jwt/*.pem
+###< lexik/jwt-authentication-bundle ###
+>>>>>>> 87637733040d6dedb595951dae45bc6d45bdeae3

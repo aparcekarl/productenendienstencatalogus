@@ -369,6 +369,12 @@ paths:
             schema:
               $ref: '#/components/schemas/ExampleEntity'
         description: 'The updated ExampleEntity resource'
+<<<<<<< HEAD
+=======
+security:
+  -
+    apiKey: []
+>>>>>>> 87637733040d6dedb595951dae45bc6d45bdeae3
 components:
   schemas:
     ExampleEntity:

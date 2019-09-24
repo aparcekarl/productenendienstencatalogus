@@ -1,7 +1,21 @@
 security:
+<<<<<<< HEAD
     # https://symfony.com/doc/current/security.html#where-do-users-come-from-user-providers
     providers:
         in_memory: { memory: ~ }
+=======
+    encoders:
+        App\Entity\Application:
+            algorithm: argon2i
+
+    # https://symfony.com/doc/current/security.html#where-do-users-come-from-user-providers
+    providers:
+        # used to reload user from session & other features (e.g. switch_user)
+        app_user_provider:
+            entity:
+                class: App\Entity\Application
+                property: uuid
+>>>>>>> 87637733040d6dedb595951dae45bc6d45bdeae3
     firewalls:
         dev:
             pattern: ^/(_(profiler|wdt)|css|images|js)/

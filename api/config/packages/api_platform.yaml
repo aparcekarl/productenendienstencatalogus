@@ -76,3 +76,13 @@ api_platform:
     # Mercure integration, remove if unwanted
     mercure:
         hub_url: '%env(MERCURE_SUBSCRIBE_URL)%'
+<<<<<<< HEAD
+=======
+        
+    # aditional swagger information 
+    swagger:
+         api_keys:
+             apiKey:
+                name: Authorization
+                type: header
+>>>>>>> 87637733040d6dedb595951dae45bc6d45bdeae3
